@@ -1,0 +1,93 @@
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.song{
+    font-family:  monospace;
+    font-size: 20px;
+    color: black;
+}
+
+.name{
+    font-family: Verdana;
+    font-size: 20px;
+    color: black;
+}
+
+.direction{
+    font-family:  monospace;
+    font-size: 20px;
+    color: black;
+    background-color: aliceblue;
+}
+
+.direction:hover{
+    color: aqua;
+    background-color: black;
+}
+
+.chorus{
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+     color: black;
+     background-color: cyan;
+     padding: 10px;
+}
+
+.solo-celta{
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+     color: black;
+     background-color: cyan;
+     padding: 10px;
+}
+
+.celia{
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+     color: black;
+     background-color: cyan;
+     padding: 10px;
+}
+
+.leila{
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+     color: black;
+     background-color: cyan;
+     padding: 10px;
+}
+
+.fleta{
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+     color: black;
+     background-color: cyan;
+     padding: 10px;
+}
+
+.queen{
+    font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+     color: black;
+     background-color: cyan;
+     padding: 10px;
+}
+
+.iol{
+    font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+     color: black;
+     background-color: cyan;
+     padding: 10px;
+}
+
+.streph{
+    font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+     color: black;
+     background-color: cyan;
+     padding: 10px;
+}
