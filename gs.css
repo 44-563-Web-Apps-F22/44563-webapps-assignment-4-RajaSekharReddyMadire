@@ -112,3 +112,7 @@ td{
 
 tr:nth-child(odd) {background-color: blanchedalmond;}
 
+.celia:hover,.chorus:hover,.fleta:hover,.iol:hover,.leila:hover,.queen:hover,.solo-celta:hover,.streph:hover{
+    text-shadow: 4px 4px 4px blueviolet;
+    border: 3px solid black;
+}
